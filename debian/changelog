@@ -1,0 +1,8 @@
+ros-humble-ffmpeg-image-transport-tools (1.1.0-2bullseye) bullseye; urgency=high
+
+  * initial release
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 11 Apr 2024 16:00:00 -0000
+
+
