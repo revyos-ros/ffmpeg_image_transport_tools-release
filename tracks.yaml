@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/ffmpeg_image_transport_tools-release
+release_repo_url: git@github.com:revyos-ros/ffmpeg_image_transport_tools-release.git
 tracks:
   humble:
     actions:
